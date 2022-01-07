@@ -1,4 +1,5 @@
-### Hi there 👋
+### 2nd year cs student
+### Currently reading: "The C Programming Language" by Brian W. Kernighan and Dennis M. Ritchie
 
 <!--
 **coolnormal23/coolnormal23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
