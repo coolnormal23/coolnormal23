@@ -1,4 +1,4 @@
-### 2nd year cs student
+2nd year cs student
 ### Currently reading: "The C Programming Language" by Brian W. Kernighan and Dennis M. Ritchie
 
 <!--
