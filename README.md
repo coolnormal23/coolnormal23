@@ -1,5 +1,7 @@
-2nd year cs student
-### Currently reading: "The C Programming Language" by Brian W. Kernighan and Dennis M. Ritchie
+✨ Junior CS student @ University of North Texas ✨
+He/Him
+
+Experience with C/C++, Python, HTML/CSS. Working this semester on building a website and learning more about JavaScript.
 
 <!--
 **coolnormal23/coolnormal23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
