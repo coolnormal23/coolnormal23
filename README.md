@@ -1,7 +1,7 @@
-✨ Junior CS student @ University of North Texas ✨
+✨ Senior Undergrad CS @ University of North Texas ✨
 He/Him
 
-Experience with C/C++, JS, HTML, CSS. Working this semester on building a website: https://visualizedatastructures.web.app/
+C/C++, HTML/CSS/JS, TS, SQL, React
 
 <!--
 **coolnormal23/coolnormal23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
