@@ -1,4 +1,4 @@
-Senior Undergrad CS @ University of North Texas
+BS Computer Science @ University of North Texas
 He/Him
 
 C/C++, HTML/CSS/JS/TS, React+NextJS
